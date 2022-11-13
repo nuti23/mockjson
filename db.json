@@ -1,0 +1,43 @@
+{
+  "umbrellas": [
+    {
+    "umbrellaId": 1,
+    "capacity": 1,
+    "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "percentOfDryness": 89
+  },
+  {
+    "umbrellaId": 2,
+    "capacity": 2,
+    "name": "qui est esse",
+    "percentOfDryness": 48
+  },
+  {
+    "umbrellaId": 3,
+    "capacity": 3,
+    "name": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "percentOfDryness": 10
+  },
+  {
+    "umbrellaId": 4,
+    "capacity": 4,
+    "name": "eum et est occaecati",
+    "percentOfDryness": 20
+  }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
