@@ -1,25 +1,25 @@
 {
   "umbrellas": [
     {
-    "umbrellaId": 1,
+    "id": 1,
     "capacity": 1,
     "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "percentOfDryness": 89
   },
   {
-    "umbrellaId": 2,
+    "id": 2,
     "capacity": 2,
     "name": "qui est esse",
     "percentOfDryness": 48
   },
   {
-    "umbrellaId": 3,
+    "id": 3,
     "capacity": 3,
     "name": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
     "percentOfDryness": 10
   },
   {
-    "umbrellaId": 4,
+    "id": 4,
     "capacity": 4,
     "name": "eum et est occaecati",
     "percentOfDryness": 20
